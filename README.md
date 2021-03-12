@@ -2,7 +2,7 @@
 
 ---
 
-<b>Welcome to my page!<b>
+<b>Welcome to my page!</b>
 
 - 🔭 I’m currently working on **Concurrent Traffic Simulation using C++**
 - 🌱 I’m currently learning **Algorithms for Competitive Programming**
