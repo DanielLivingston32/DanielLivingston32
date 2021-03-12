@@ -15,7 +15,8 @@ Welcome to my page!
 
 <br>
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLivingston32&theme=tokyonight)
+<h2>Language I Code With:</h2>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLivingston32&theme=tokyonight" alt="GitHub Stats"></p>
 
 <br>
 
@@ -23,4 +24,5 @@ Welcome to my page!
 
 <br>
 
-[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=DanielLivingston32&theme=tokyonight)](https://github.com/DanielLivingston32/github-readme-stats)
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=DanielLivingston32&theme=tokyonight" alt="GitHub Stats"></p>
