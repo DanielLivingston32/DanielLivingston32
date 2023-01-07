@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Concurrent Traffic Simulation using C++**
 - 🌱 I’m currently learning **Algorithms for Competitive Programming**
 - 💬 Ask me about **Data Structures and Algorithms and C++**
-- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/michael-hoffmann-3b8933b1)
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/daniel-livingston-8b0623187/)
 
 ---
 
